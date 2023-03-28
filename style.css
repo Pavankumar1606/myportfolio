@@ -316,11 +316,7 @@ header.sticky{
 	font-weight: 500;
 	margin-bottom: 2px;
 }
-.row h5{
-	font-size: 17px;
-	font-weight: 500;
-	margin-bottom: 19px;
-}
+
 .row p{
 	font-size: var(--p-font);
 	color: var(--secound-color);
