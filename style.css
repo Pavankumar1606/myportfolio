@@ -70,6 +70,7 @@ header{
 	cursor: pointer;
 	display: none;
 }
+
 .top-btn{
 	display: inline-block;
 	padding: 9px 30px;
@@ -88,6 +89,8 @@ header{
 	border: 2px solid var(--main-color);
 	color: var(--bg-color);
 }
+
+
 section{
 	padding: 100px 18%;
 }
@@ -332,7 +335,11 @@ header.sticky{
 	font-weight: 500;
 	margin-bottom: 2px;
 }
-
+.row h5{
+	font-size: 17px;
+	font-weight: 500;
+	margin-bottom: 19px;
+}
 .row p{
 	font-size: var(--p-font);
 	color: var(--secound-color);
@@ -342,7 +349,6 @@ header.sticky{
 	will-change: transform;
 	transform: perspective(1000px) rotateX(4.80deg) rotateY(10.23deg) scale3d(1.05,1.05,1.05);
 }
-
 
 
 
